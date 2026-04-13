@@ -72,11 +72,6 @@ Dashboard yang dibuat meliputi:
 -  Top Cities by Revenue
 -  KPI (Total Revenue, Quantity, Average Revenue)
 
-### Contoh Dashboard:
-![Dashboard](superset/dashboard-giffari-2026-04-13T08-11-30.844Z,pdf)
-
----
-
 ## 📂 Struktur Project
 mini-project-pipeline/
 │
