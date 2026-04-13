@@ -1,0 +1,21 @@
+database_name: PostgreAdin
+sqlalchemy_uri: postgresql://neondb_owner:XXXXXXXXXX@ep-crimson-cherry-ai2u68j1-pooler.c-4.us-east-1.aws.neon.tech/neondb
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: true
+allow_cvas: true
+allow_dml: true
+allow_file_upload: true
+extra:
+  metadata_params: {}
+  engine_params: {}
+  metadata_cache_timeout: {}
+  schemas_allowed_for_file_upload: []
+  cost_estimate_enabled: true
+  disable_data_preview: true
+  schema_options:
+    expand_rows: true
+impersonate_user: false
+uuid: bd009cd0-b61c-4dd3-bd7f-26e9fedbbf9d
+version: 1.0.0
